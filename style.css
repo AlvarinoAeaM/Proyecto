@@ -193,3 +193,21 @@ header .menu{
     border-color: #f46969; 
 }
 
+
+
+
+
+
+@media screen and (max-width: 678px) {
+    .thumbnail {
+        justify-content: start;
+    }
+    
+    .slider .list .item .content h2 {
+        font-size: 60px;
+    }
+    
+    .arrows {
+        top: 10%;
+    }
+}
